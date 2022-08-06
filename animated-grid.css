@@ -1,6 +1,6 @@
 .animated-grid {
-  height: 85vh;
-  margin-bottom: 200px;
+  /* height: 85vh; */
+  margin-bottom: 100px;
 
   display: grid;
   gap: 1rem;
